@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "Liza Umma Nur Hidayah",
+    "nim": "20050974048",
+    "no_telepon": "08882610168",
+    "hobi": ["membaca", "menulis", "menyanyai"],
+    "riwayat_pendidikan": {
+      "SD": "SDN 1 CENDONO",
+      "SMP": "SMPN 1 PADANGAN",
+      "SMA": "SMAN 1 PADANGAN"
+    }
+  },
+  {
+    "nama": "Widya Aulia Ainun Faidah",
+    "nim": "20050974044",
+    "no_telepon": "083830732808",
+    "hobi": ["membaca", "menulis", "menyanyai"],
+    "riwayat_pendidikan": {
+      "SD": "SDN 1 CENDONO",
+      "SMP": "SMPN 1 PADANGAN",
+      "SMA": "SMAN 1 PADANGAN"
+    }
+  }
+]
