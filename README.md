@@ -1,4 +1,5 @@
 # TugasJsonPHP
+##output program mengakses file json dengan curl
 ![jsoncurl](https://user-images.githubusercontent.com/82353505/168955001-bed89a0c-03f3-42a9-814c-70d10fb8667b.png)
 
 ![file get content](https://user-images.githubusercontent.com/82353505/168955026-5e0eca95-6122-4ae2-ba7e-481282088f8a.png)
